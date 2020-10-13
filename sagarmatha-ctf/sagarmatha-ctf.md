@@ -400,7 +400,7 @@ I wrote down the flag and submitted it.
 ```hacktoberfest_ctf{rickrolled_for_the_flag}```
 
 
-#CTF 101
+# CTF 101
 
 Challenge Description
 
@@ -409,7 +409,7 @@ Challenge Description
 This was the simplest challenge in the CTF. The flag was shown in the endscreen during the presentation.
 
 
-#I Cee Macha Pokhari, where cow spoke
+# I Cee Macha Pokhari, where cow spoke
 
 Challenge Description
 It seemed that a trader sold a cow in 127.0.0.1, becuase it could speak. Pople say, it was a lie to sell the cow. Can you find out, if the cow did speak for real?
